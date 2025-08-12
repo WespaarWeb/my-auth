@@ -13,10 +13,6 @@ const nextConfig = {
     unoptimized: true,
     domains: ["randomuser.me"],
   },
-
-  experimental: {
-    appDir: true,
-  },
 };
 
 module.exports = nextConfig;
