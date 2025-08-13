@@ -1,7 +1,6 @@
 # 🔐 پروژه احراز هویت Next.js
 
 <div align="center">
-
 **پروژه احراز هویت کامل با Next.js، TypeScript و طراحی مدرن فارسی**
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit-blue?style=for-the-badge)](https://wespaarweb.github.io/my-auth/)
@@ -12,13 +11,12 @@
 
 ## ✨ ویژگی‌ها
 
-- 🚀 **Next.js 14** با App Router
+- 🚀 **Next.js 15** با App Router
 - 💎 **TypeScript** برای Type Safety
 - 🎨 **SCSS Modules** برای استایل‌دهی
 - 📱 **Responsive Design** - روی همه دستگاه‌ها کار می‌کنه
 - 🔒 **Form Validation** با Zod و React Hook Form
 - 💾 **Local Storage** برای نگهداری وضعیت
-- 🌐 **کاملاً آفلاین** - بدون نیاز به اینترنت
 - 🇮🇷 **پشتیبانی RTL** فارسی
 
 ## 🎮 تست سریع
