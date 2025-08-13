@@ -37,7 +37,11 @@ export default function AuthPage() {
 
     try {
       // خواندن مستقیم از فایل api.json در public
-      const res = await fetch("/api.json");
+      const base =
+        process.env.NEXT_PUBLIC_BASE_PATH ||
+        (process.env.NODE_ENV === "production" ? "/my-auth" : "");
+
+      const res = await fetch(`${base}/api.json`);
 
       if (!res.ok) {
         throw new Error(`HTTP error! status: ${res.status}`);
