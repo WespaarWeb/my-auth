@@ -1,18 +1,12 @@
-/** @type {import('next').NextConfig} */
-const isProd = process.env.NODE_ENV === "production";
+import type { NextConfig } from "next";
 
-const nextConfig = {
-  // تنظیمات برای GitHub Pages
-  output: "export",
-  trailingSlash: true,
-  basePath: isProd ? "/my-auth-app" : "", // نام ریپازیتوری رو بنویس
-  assetPrefix: isProd ? "/my-auth-app/" : "", // همون نام ریپازیتوری
-
-  // تنظیمات تصاویر
+const nextConfig: NextConfig = {
+  output: "export", // خروجی استاتیک برای GitHub Pages
   images: {
-    unoptimized: true,
-    domains: ["randomuser.me"],
+    unoptimized: true, // چون GitHub Pages قابلیت Image Optimization نداره
   },
+  basePath: "/my-auth", // نام ریپازیتوری
+  assetPrefix: "/my-auth/",
 };
 
-module.exports = nextConfig;
+export default nextConfig;
