@@ -6,8 +6,8 @@
 
 **پروژه احراز هویت کامل با Next.js، TypeScript و طراحی مدرن فارسی**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit-blue?style=for-the-badge)](https://YOUR-USERNAME.github.io/my-auth-app)
-[![Download](https://img.shields.io/badge/📥_Download-Latest-green?style=for-the-badge)](https://github.com/YOUR-USERNAME/my-auth-app/releases/latest)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit-blue?style=for-the-badge)](https://wespaarweb.github.io/my-auth/)
+[![Download](https://img.shields.io/badge/📥_Download-Latest-green?style=for-the-badge)](https://github.com/wespaarweb/my-auth-app/releases/latest)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 </div>
