@@ -25,7 +25,7 @@
 
 ## 🎮 تست سریع
 
-👉 **[کلیک کنید و الان تست کنید!](https://YOUR-USERNAME.github.io/my-auth-app)**
+👉 **[کلیک کنید و الان تست کنید!](https://wespaarweb.github.io/my-auth/)**
 
 **شماره تست:** `09123456789`
 
@@ -33,7 +33,7 @@
 
 ### برای کاربران عادی
 
-1. از [Releases](https://github.com/YOUR-USERNAME/my-auth-app/releases/latest) آخرین نسخه رو دانلود کنید
+1. از [Releases](https://github.com/WespaarWeb/my-auth/releases/latest) آخرین نسخه رو دانلود کنید
 2. فایل ZIP رو Extract کنید
 3. روی `Start-Windows.bat` دابل کلیک کنید
 4. یا `static-build/index.html` رو در مرورگر باز کنید
@@ -41,7 +41,7 @@
 ### برای توسعه‌دهندگان
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/my-auth-app.git
+git clone https://github.com/WespaarWeb/my-auth.git
 cd my-auth-app
 npm install
 npm run dev
