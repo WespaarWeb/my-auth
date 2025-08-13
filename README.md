@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Demo](https://via.placeholder.com/600x300/667eea/white?text=Auth+Project+Demo)
-
 **پروژه احراز هویت کامل با Next.js، TypeScript و طراحی مدرن فارسی**
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit-blue?style=for-the-badge)](https://wespaarweb.github.io/my-auth/)
@@ -42,7 +40,7 @@
 
 ```bash
 git clone https://github.com/WespaarWeb/my-auth.git
-cd my-auth-app
+cd my-auth
 npm install
 npm run dev
 ```
@@ -76,5 +74,3 @@ npm run export
 <img src="screenshots/dashboard.png" width="400" alt="Dashboard">
 
 </div>
-
-## 🏗️ ساختار پروژه
